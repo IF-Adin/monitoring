@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**Goldenbug Status page**"
-  introMessage: This is the status page for all Goldenbug services. Matrix is the main server, element is the webclient, jitsi is the voip serv, and dimension is the extension manager
+  introMessage: This is the status page for all Goldenbug services. Matrix is the main server, element is the webclient, jitsi is the voip server, and dimension is the extension manager
   theme: dark
   navbar:
     - title: Status

@@ -7,7 +7,7 @@ sites:
     url: https://matrix.goldenbug.eu
  
 status-website:
-  baseUrl: /minitoring # where "repo" is your repository name
+  baseUrl: /monitoring # where "repo" is your repository name
   name: Goldenbug status
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

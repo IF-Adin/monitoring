@@ -16,10 +16,11 @@ status-website:
   baseUrl: /monitoring # where "repo" is your repository name
   name: Goldenbug status
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://if-adin.github.io/monitoring/gb_tech.png
   introTitle: "**Goldenbug Status page**"
   introMessage: This is the status page for all Goldenbug services. Matrix is the main server, element is the webclient, jitsi is the voip server, and dimension is the extension manager
   theme: dark
+  themeUrl: https://if-adin.github.io/monitoring/custom.css
   navbar:
     - title: Status
       href: /

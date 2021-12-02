@@ -20,7 +20,6 @@ status-website:
   introTitle: "**Goldenbug Status page**"
   introMessage: This is the status page for all Goldenbug services. Matrix is the main server, element is the webclient, jitsi is the voip server, and dimension is the extension manager
   theme: dark
-  themeUrl: https://if-adin.github.io/monitoring/custom.css
   navbar:
     - title: Status
       href: /

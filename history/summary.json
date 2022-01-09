@@ -4,9 +4,9 @@
     "url": "https://matrix.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/matrix.goldenbug.eu",
     "slug": "gb-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1185,
     "timeMonth": 1305,
     "timeYear": 1321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "GB Element",
     "url": "https://element.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/element.goldenbug.eu",
     "slug": "gb-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 103,
     "timeMonth": 116,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "GB Dimension",
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/dimension.goldenbug.eu",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +55,16 @@
     "timeWeek": 576,
     "timeMonth": 643,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "GB Jitsi",
     "url": "https://jitsi.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/jitsi.goldenbug.eu",
     "slug": "gb-jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 742,
     "timeMonth": 821,
     "timeYear": 827,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   }
 ]

@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/matrix.goldenbug.eu",
     "slug": "gb-matrix",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1333,
-    "timeDay": 1796,
-    "timeWeek": 1266,
-    "timeMonth": 1321,
-    "timeYear": 1333,
-    "dailyMinutesDown": {
-      "2022-01-09": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1321,
+    "timeDay": 1318,
+    "timeWeek": 1264,
+    "timeMonth": 1317,
+    "timeYear": 1321,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Element",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/element.goldenbug.eu",
     "slug": "gb-element",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 118,
-    "timeDay": 150,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 117,
+    "timeDay": 117,
     "timeWeek": 109,
     "timeMonth": 117,
-    "timeYear": 118,
-    "dailyMinutesDown": {
-      "2022-01-09": 10
-    }
+    "timeYear": 117,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Dimension",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/dimension.goldenbug.eu",
     "slug": "gb-dimension",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 647,
-    "timeDay": 701,
-    "timeWeek": 601,
-    "timeMonth": 647,
-    "timeYear": 647,
-    "dailyMinutesDown": {
-      "2022-01-09": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 642,
+    "timeDay": 618,
+    "timeWeek": 594,
+    "timeMonth": 643,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Jitsi",
@@ -65,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/jitsi.goldenbug.eu",
     "slug": "gb-jitsi",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 836,
-    "timeDay": 1153,
-    "timeWeek": 804,
-    "timeMonth": 834,
-    "timeYear": 836,
-    "dailyMinutesDown": {
-      "2022-01-09": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 837,
+    "timeDay": 1065,
+    "timeWeek": 839,
+    "timeMonth": 843,
+    "timeYear": 837,
+    "dailyMinutesDown": {}
   }
 ]

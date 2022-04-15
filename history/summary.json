@@ -40,18 +40,20 @@
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/dimension.goldenbug.eu",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 880,
-    "timeWeek": 710,
-    "timeMonth": 705,
-    "timeYear": 691,
-    "dailyMinutesDown": {}
+    "time": 696,
+    "timeDay": 1128,
+    "timeWeek": 794,
+    "timeMonth": 726,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2022-04-15": 0
+    }
   },
   {
     "name": "GB Jitsi",

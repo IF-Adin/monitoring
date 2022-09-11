@@ -4,9 +4,9 @@
     "url": "https://matrix.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/matrix.goldenbug.eu",
     "slug": "gb-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1560,
     "timeMonth": 1509,
     "timeYear": 1409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "GB Element",
     "url": "https://element.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/element.goldenbug.eu",
     "slug": "gb-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,28 @@
     "timeWeek": 113,
     "timeMonth": 109,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "GB Dimension",
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/dimension.goldenbug.eu",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 727,
-    "timeDay": 1014,
-    "timeWeek": 795,
-    "timeMonth": 806,
-    "timeYear": 727,
+    "time": 728,
+    "timeDay": 984,
+    "timeWeek": 814,
+    "timeMonth": 810,
+    "timeYear": 728,
     "dailyMinutesDown": {
+      "2022-09-11": 0,
       "2022-04-15": 22
     }
   },
@@ -60,17 +65,19 @@
     "url": "https://jitsi.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/jitsi.goldenbug.eu",
     "slug": "gb-jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 711,
-    "timeWeek": 819,
-    "timeMonth": 846,
-    "timeYear": 891,
-    "dailyMinutesDown": {}
+    "time": 890,
+    "timeDay": 756,
+    "timeWeek": 817,
+    "timeMonth": 845,
+    "timeYear": 890,
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   }
 ]

@@ -4,19 +4,19 @@
     "url": "https://matrix.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/matrix.goldenbug.eu",
     "slug": "gb-matrix",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1409,
     "timeDay": 1485,
-    "timeWeek": 1560,
-    "timeMonth": 1509,
+    "timeWeek": 1551,
+    "timeMonth": 1508,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 13
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://element.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/element.goldenbug.eu",
     "slug": "gb-element",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 117,
@@ -36,7 +36,7 @@
     "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/dimension.goldenbug.eu",
     "slug": "gb-dimension",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 728,
-    "timeDay": 984,
-    "timeWeek": 814,
-    "timeMonth": 810,
+    "timeDay": 947,
+    "timeWeek": 821,
+    "timeMonth": 812,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2022-09-11": 0,
+      "2022-09-11": 13,
       "2022-04-15": 22
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://jitsi.goldenbug.eu",
     "icon": "https://favicons.githubusercontent.com/jitsi.goldenbug.eu",
     "slug": "gb-jitsi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 756,
-    "timeWeek": 817,
-    "timeMonth": 845,
-    "timeYear": 890,
+    "time": 891,
+    "timeDay": 877,
+    "timeWeek": 850,
+    "timeMonth": 853,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 13
     }
   }
 ]

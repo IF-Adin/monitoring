@@ -6,18 +6,16 @@
     "slug": "gb-matrix",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1409,
-    "timeDay": 1485,
-    "timeWeek": 1551,
-    "timeMonth": 1508,
+    "timeDay": 1388,
+    "timeWeek": 1457,
+    "timeMonth": 1513,
     "timeYear": 1409,
-    "dailyMinutesDown": {
-      "2022-09-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Element",
@@ -26,18 +24,16 @@
     "slug": "gb-element",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 117,
-    "timeWeek": 113,
-    "timeMonth": 109,
+    "timeWeek": 117,
+    "timeMonth": 110,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2022-09-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Dimension",
@@ -46,17 +42,16 @@
     "slug": "gb-dimension",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 728,
-    "timeDay": 947,
-    "timeWeek": 821,
-    "timeMonth": 812,
+    "timeDay": 807,
+    "timeWeek": 810,
+    "timeMonth": 813,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2022-09-11": 13,
       "2022-04-15": 22
     }
   },
@@ -67,17 +62,15 @@
     "slug": "gb-jitsi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 877,
-    "timeWeek": 850,
-    "timeMonth": 853,
+    "timeDay": 925,
+    "timeWeek": 896,
+    "timeMonth": 862,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2022-09-11": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]

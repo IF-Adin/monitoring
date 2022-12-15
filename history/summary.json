@@ -4,9 +4,9 @@
     "url": "https://matrix.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.goldenbug.eu.ico",
     "slug": "gb-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1903,
     "timeYear": 1494,
     "dailyMinutesDown": {
+      "2022-12-15": 0,
       "2022-11-03": 45
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://element.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/element.goldenbug.eu.ico",
     "slug": "gb-element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2022-12-15": 0,
       "2022-11-03": 45
     }
   },

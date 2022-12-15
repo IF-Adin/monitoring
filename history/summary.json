@@ -6,9 +6,9 @@
     "slug": "gb-matrix",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "31.72%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "30.06%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "99.80%",
     "time": 1485,
     "timeDay": 1599,
@@ -16,7 +16,7 @@
     "timeMonth": 1933,
     "timeYear": 1494,
     "dailyMinutesDown": {
-      "2022-12-15": 983,
+      "2022-12-15": 1007,
       "2022-11-03": 45
     }
   },
@@ -27,9 +27,9 @@
     "slug": "gb-element",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "31.72%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "30.06%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "99.80%",
     "time": 119,
     "timeDay": 124,
@@ -37,7 +37,7 @@
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2022-12-15": 983,
+      "2022-12-15": 1007,
       "2022-11-03": 45
     }
   },
@@ -46,7 +46,7 @@
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "97.92%",
     "uptimeWeek": "97.18%",
@@ -69,19 +69,19 @@
     "url": "https://jitsi.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 897,
     "timeDay": 765,
     "timeWeek": 894,
     "timeMonth": 1019,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-12-15": 40,
+      "2022-12-15": 30,
       "2022-11-03": 44
     }
   }

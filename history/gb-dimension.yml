@@ -1,7 +1,7 @@
 url: https://dimension.goldenbug.eu
-status: up
-code: 200
-responseTime: 1261
-lastUpdated: 2023-05-04T23:03:35.726Z
+status: down
+code: 502
+responseTime: 1260
+lastUpdated: 2023-05-05T05:42:20.328Z
 startTime: Wed Dec 01 2021 21:15:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

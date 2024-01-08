@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
-    "time": 1770,
-    "timeDay": 2802,
-    "timeWeek": 1878,
-    "timeMonth": 1959,
-    "timeYear": 1785,
+    "time": 1771,
+    "timeDay": 2214,
+    "timeWeek": 1976,
+    "timeMonth": 1964,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2023-12-15": 28,
       "2023-11-07": 63,
@@ -22,8 +22,7 @@
       "2023-09-25": 32,
       "2023-03-24": 41,
       "2023-02-24": 16,
-      "2023-01-25": 44,
-      "2023-01-08": 325
+      "2023-01-25": 44
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 160,
+    "timeDay": 94,
     "timeWeek": 116,
-    "timeMonth": 126,
+    "timeMonth": 124,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-12-15": 28,
@@ -60,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.61%",
-    "time": 941,
-    "timeDay": 1182,
-    "timeWeek": 817,
-    "timeMonth": 951,
-    "timeYear": 940,
+    "time": 942,
+    "timeDay": 1171,
+    "timeWeek": 874,
+    "timeMonth": 927,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2023-12-15": 28,
       "2023-11-07": 63,
@@ -82,8 +81,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1270
+      "2023-01-09": 1440
     }
   },
   {
@@ -92,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "84.42%",
-    "time": 997,
-    "timeDay": 1735,
-    "timeWeek": 1030,
-    "timeMonth": 1044,
-    "timeYear": 1014,
+    "uptimeYear": "84.69%",
+    "time": 999,
+    "timeDay": 1353,
+    "timeWeek": 1024,
+    "timeMonth": 1031,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2023-12-15": 28,
       "2023-11-07": 16,
@@ -161,8 +159,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   }
 ]

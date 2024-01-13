@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 1774,
-    "timeDay": 1265,
-    "timeWeek": 1962,
-    "timeMonth": 1941,
-    "timeYear": 1790,
+    "timeDay": 1625,
+    "timeWeek": 1935,
+    "timeMonth": 1932,
+    "timeYear": 1789,
     "dailyMinutesDown": {
       "2023-12-15": 28,
       "2023-11-07": 63,
@@ -37,8 +37,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 92,
-    "timeWeek": 113,
+    "timeDay": 140,
+    "timeWeek": 120,
     "timeMonth": 122,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -58,12 +58,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.96%",
     "time": 943,
-    "timeDay": 1043,
-    "timeWeek": 969,
+    "timeDay": 573,
+    "timeWeek": 902,
     "timeMonth": 904,
-    "timeYear": 940,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2023-12-15": 28,
       "2023-11-07": 63,
@@ -76,8 +76,7 @@
       "2023-01-23": 257,
       "2023-01-16": 439,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "85.79%",
+    "uptimeYear": "86.06%",
     "time": 1001,
-    "timeDay": 620,
-    "timeWeek": 1136,
-    "timeMonth": 999,
+    "timeDay": 892,
+    "timeWeek": 1113,
+    "timeMonth": 995,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2023-12-15": 28,
@@ -150,8 +149,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   }
 ]

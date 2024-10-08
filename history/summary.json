@@ -47,10 +47,10 @@
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 958,
@@ -59,6 +59,7 @@
     "timeMonth": 1123,
     "timeYear": 954,
     "dailyMinutesDown": {
+      "2024-10-08": 1,
       "2024-01-21": 16,
       "2023-12-15": 28,
       "2023-11-07": 63

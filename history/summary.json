@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1813,
-    "timeDay": 1661,
-    "timeWeek": 1791,
-    "timeMonth": 1845,
-    "timeYear": 1795,
+    "time": 1812,
+    "timeDay": 1403,
+    "timeWeek": 1639,
+    "timeMonth": 1838,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2024-11-15": 17
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 96,
-    "timeWeek": 115,
+    "timeWeek": 105,
     "timeMonth": 122,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 964,
-    "timeDay": 891,
-    "timeWeek": 946,
-    "timeMonth": 994,
-    "timeYear": 966,
+    "timeDay": 971,
+    "timeWeek": 932,
+    "timeMonth": 1003,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2024-11-15": 17
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
     "status": "up",
-    "uptime": "94.91%",
+    "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 817,
-    "timeWeek": 866,
-    "timeMonth": 1059,
-    "timeYear": 981,
+    "time": 975,
+    "timeDay": 897,
+    "timeWeek": 819,
+    "timeMonth": 1071,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2024-11-15": 17
     }

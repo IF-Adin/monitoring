@@ -6,17 +6,17 @@
     "slug": "gb-matrix",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 1803,
     "timeDay": 1318,
     "timeWeek": 1804,
     "timeMonth": 1809,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2025-03-31": 0,
+      "2025-03-31": 38,
       "2024-11-15": 17
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://element.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/element.goldenbug.eu.ico",
     "slug": "gb-element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2024-11-15": 17
     }
   },
@@ -45,18 +46,19 @@
     "url": "https://dimension.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 953,
+    "time": 952,
     "timeDay": 1017,
     "timeWeek": 938,
     "timeMonth": 912,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2024-11-15": 17
     }
   },
@@ -65,9 +67,9 @@
     "url": "https://jitsi.goldenbug.eu",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "95.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +79,7 @@
     "timeMonth": 976,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2025-03-31": 0,
       "2024-11-15": 17
     }
   }

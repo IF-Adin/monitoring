@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1808,
-    "timeDay": 3371,
-    "timeWeek": 2139,
-    "timeMonth": 1875,
-    "timeYear": 1816,
+    "time": 1807,
+    "timeDay": 1580,
+    "timeWeek": 2050,
+    "timeMonth": 1865,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2024-11-15": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 166,
+    "timeDay": 96,
     "timeWeek": 117,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-11-15": 17
@@ -46,17 +46,16 @@
     "slug": "gb-dimension",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 953,
-    "timeDay": 1001,
-    "timeWeek": 922,
-    "timeMonth": 902,
-    "timeYear": 966,
+    "time": 954,
+    "timeDay": 891,
+    "timeWeek": 944,
+    "timeMonth": 912,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2025-03-30": 8,
       "2024-11-15": 17
     }
   },
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 1477,
-    "timeWeek": 1070,
-    "timeMonth": 980,
-    "timeYear": 996,
+    "time": 983,
+    "timeDay": 1213,
+    "timeWeek": 1052,
+    "timeMonth": 988,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2024-11-15": 17
     }

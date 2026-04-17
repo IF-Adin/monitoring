@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1998,
-    "timeDay": 1745,
-    "timeWeek": 1910,
-    "timeMonth": 1918,
-    "timeYear": 2047,
+    "time": 1999,
+    "timeDay": 2015,
+    "timeWeek": 1933,
+    "timeMonth": 1922,
+    "timeYear": 2045,
     "dailyMinutesDown": {
       "2025-06-05": 21
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 162,
-    "timeWeek": 139,
-    "timeMonth": 123,
+    "timeDay": 140,
+    "timeWeek": 141,
+    "timeMonth": 122,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-06-05": 20
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 903,
-    "timeWeek": 979,
-    "timeMonth": 1088,
+    "time": 1055,
+    "timeDay": 707,
+    "timeWeek": 887,
+    "timeMonth": 1077,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-06-05": 20
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1097,
-    "timeDay": 1257,
-    "timeWeek": 1145,
-    "timeMonth": 1088,
-    "timeYear": 1118,
+    "timeDay": 720,
+    "timeWeek": 1132,
+    "timeMonth": 1075,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-06-05": 19
     }

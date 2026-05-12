@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2013,
-    "timeDay": 1754,
-    "timeWeek": 1873,
-    "timeMonth": 2033,
-    "timeYear": 2063,
+    "time": 2014,
+    "timeDay": 2349,
+    "timeWeek": 2034,
+    "timeMonth": 2052,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2025-06-05": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 333,
-    "timeWeek": 499,
-    "timeMonth": 219,
-    "timeYear": 127,
+    "time": 130,
+    "timeDay": 630,
+    "timeWeek": 573,
+    "timeMonth": 236,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2025-06-05": 20
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "22.13%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.33%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "99.51%",
     "time": 1063,
-    "timeDay": 643,
-    "timeWeek": 1086,
-    "timeMonth": 1084,
+    "timeDay": 934,
+    "timeWeek": 1103,
+    "timeMonth": 1092,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2026-05-11": 230,
+      "2026-05-12": 214,
+      "2026-05-11": 1440,
       "2026-05-10": 891,
       "2025-06-05": 20
     }
@@ -72,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1237,
-    "timeWeek": 1170,
-    "timeMonth": 1090,
-    "timeYear": 1126,
+    "time": 1102,
+    "timeDay": 1580,
+    "timeWeek": 1258,
+    "timeMonth": 1108,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-06-05": 19
     }

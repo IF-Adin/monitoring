@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2023,
-    "timeDay": 2058,
-    "timeWeek": 2165,
-    "timeMonth": 2135,
+    "time": 2024,
+    "timeDay": 1846,
+    "timeWeek": 2103,
+    "timeMonth": 2102,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2025-06-05": 21
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 840,
-    "timeWeek": 592,
-    "timeMonth": 391,
-    "timeYear": 142,
+    "time": 141,
+    "timeDay": 829,
+    "timeWeek": 590,
+    "timeMonth": 414,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2025-06-05": 20
     }
@@ -45,18 +45,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
     "status": "down",
-    "uptime": "98.66%",
+    "uptime": "98.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.03%",
-    "uptimeYear": "96.50%",
-    "time": 1055,
-    "timeDay": 343,
-    "timeWeek": 639,
-    "timeMonth": 938,
-    "timeYear": 1096,
+    "uptimeMonth": "54.69%",
+    "uptimeYear": "96.22%",
+    "time": 1054,
+    "timeDay": 336,
+    "timeWeek": 621,
+    "timeMonth": 900,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2026-05-23": 214,
+      "2025-06-05": 20,
+      "2026-05-24": 236,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -69,8 +71,7 @@
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
-      "2026-05-10": 891,
-      "2025-06-05": 20
+      "2026-05-10": 891
     }
   },
   {
@@ -79,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.goldenbug.eu.ico",
     "slug": "gb-jitsi",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
-    "timeDay": 674,
-    "timeWeek": 1152,
+    "timeDay": 1060,
+    "timeWeek": 984,
     "timeMonth": 1149,
-    "timeYear": 1129,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-06-05": 19
     }

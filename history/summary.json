@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2027,
-    "timeDay": 2430,
-    "timeWeek": 1994,
-    "timeMonth": 2055,
-    "timeYear": 2080,
-    "dailyMinutesDown": {
-      "2025-06-05": 21
-    }
+    "timeDay": 2609,
+    "timeWeek": 2124,
+    "timeMonth": 2100,
+    "timeYear": 2083,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Element",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 991,
-    "timeWeek": 657,
-    "timeMonth": 593,
-    "timeYear": 160,
-    "dailyMinutesDown": {
-      "2025-06-05": 20
-    }
+    "time": 154,
+    "timeDay": 517,
+    "timeWeek": 613,
+    "timeMonth": 606,
+    "timeYear": 161,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GB Dimension",
@@ -45,19 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dimension.goldenbug.eu.ico",
     "slug": "gb-dimension",
     "status": "down",
-    "uptime": "97.93%",
+    "uptime": "97.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.48%",
-    "uptimeYear": "93.20%",
-    "time": 1047,
-    "timeDay": 925,
-    "timeWeek": 760,
-    "timeMonth": 731,
-    "timeYear": 1084,
+    "uptimeMonth": "15.23%",
+    "uptimeYear": "92.93%",
+    "time": 1045,
+    "timeDay": 396,
+    "timeWeek": 712,
+    "timeMonth": 719,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2025-06-05": 20,
-      "2026-06-04": 260,
+      "2026-06-05": 243,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -96,13 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1605,
-    "timeWeek": 1077,
-    "timeMonth": 1135,
-    "timeYear": 1130,
-    "dailyMinutesDown": {
-      "2025-06-05": 19
-    }
+    "time": 1104,
+    "timeDay": 1509,
+    "timeWeek": 1207,
+    "timeMonth": 1153,
+    "timeYear": 1132,
+    "dailyMinutesDown": {}
   }
 ]
